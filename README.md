@@ -8,7 +8,7 @@
 
 ### Chat
 
-![image](https://user-images.githubusercontent.com/89479282/206497774-47d960cd-1aeb-4fba-9af5-1f9d6ff41f00.gif)
+
 
 ### Mode
 
